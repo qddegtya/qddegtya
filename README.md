@@ -1,16 +1,1 @@
-<br />
-<br />
-<br />
-<p align="center"><img src="https://user-images.githubusercontent.com/773248/142223314-1a59adac-14a5-420b-9448-0bcd8efbecfc.gif" alt="archer"></p>
-<br />
-<br />
-<br />
-<p align="center">
-<em>Knowledge is power.</em>
-<br>
-<br>
-<em>知识就是力量。</em>
-<br>
-<br>
-<br>
-</p>
+![carbon-readme](https://user-images.githubusercontent.com/773248/209457647-544bd701-95e4-4eca-82dd-1b60a1a84519.png)
