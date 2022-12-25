@@ -5,4 +5,4 @@
   <br>
 </h1>
 
-> ✒️ coding & writing & playing
+> 🚀 coding -> writing -> playing
