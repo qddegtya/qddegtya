@@ -4,9 +4,9 @@
 </h1>
 
 <h1 align="center">
-  <br>
-	<img width="720" src="https://user-images.githubusercontent.com/773248/209457718-8f116fd7-2910-4090-8fc0-f9690630813e.png" alt="about">
-  <br>
+	<br>
+	  <img src="https://user-images.githubusercontent.com/773248/209464570-88d36c6e-9f56-4d0d-a157-8cb2ec0af189.png" alt="about">
+	<br>
   <br>
 </h1>
 
