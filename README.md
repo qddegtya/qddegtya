@@ -11,3 +11,5 @@
 </h1>
 
 > 🚀 coding -> writing -> playing
+
+* [blog](https://xiaoa.name)
