@@ -12,4 +12,4 @@
 
 > 🚀 coding -> writing -> playing
 
-👉 Follow me [ [WEBSITE](https://xiaoa.name) | [YUQUE](https://www.yuque.com/chiyu-heb0t) ]
+👉 Follow me [ [WEBSITE](https://xiaoa.name) | [YUQUE](https://www.yuque.com/chiyu-heb0t) | [TWITTER](https://twitter.com/qddegtya) ]
