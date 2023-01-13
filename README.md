@@ -1,6 +1,6 @@
 <h1>
 	<br>
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%99%82+Welcome+to+my+profile+page.;Here+is+my+bio%3A+" alt="welcome">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16A085&width=435&lines=%F0%9F%99%82+Welcome+to+my+profile+page.;Here+is+my+bio%3A+" alt="welcome">
 </h1>
 
 <h1 align="center">
