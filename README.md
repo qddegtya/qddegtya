@@ -13,3 +13,18 @@
 > 🚀 coding -> writing -> playing
 
 👉 Follow me [ [WEBSITE](https://xiaoa.name) | [YUQUE](https://www.yuque.com/chiyu-heb0t) | [TWITTER](https://twitter.com/qddegtya) ]
+
+<br>
+<br>
+<h1>
+	🚀 [WIP] Code & Art Studio
+	<br>
+	<br>
+</h1>
+<br>
+
+<h1 align="center">
+	  <img src="https://user-images.githubusercontent.com/773248/214371619-b82902a1-2de1-4e0e-ac3f-5d4f494b75a6.png" alt="code & art">
+	<br>
+  <br>
+</h1>
