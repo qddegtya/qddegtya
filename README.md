@@ -39,7 +39,7 @@
 <br>
 <br>
 <h1>
-	🐝 Bees for My Github
+	🐝 Bees
 	<br>
 	<br>
 </h1>
