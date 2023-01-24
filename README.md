@@ -22,8 +22,6 @@
 <br>
 </p>
 
-<br>
-<br>
 <h1>
 	👉 Follow me
 	<br>
