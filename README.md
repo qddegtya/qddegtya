@@ -56,7 +56,7 @@
 <br>
 <br>
 <h1>
-	🚀 [WIP] Code & Art Studio
+	🚀 [WIP] Studio: [Code & Art]
 	<br>
 	<br>
 </h1>
