@@ -32,7 +32,7 @@
 |Name|Description|Follow|
 |:--:|:--:|:--:|
 |Website|Adhere to the original, persevere.|[Corlorful](https://xiaoa.name)|
-|Yuque|Digital garden in yuque, write down some thoughts and conclusions.|[Yuque](https://www.yuque.com/chiyu-heb0t)|
+|Yuque|Digital garden at yuque.com, write down some thoughts and conclusions.|[Yuque](https://www.yuque.com/chiyu-heb0t)|
 |Twitter|Acquire fragmented knowledge.|[Twitter](https://twitter.com/qddegtya)|
 
 <br>
