@@ -34,6 +34,7 @@
 |Website|Adhere to the original, persevere.|[Corlorful](https://xiaoa.name)|
 |Yuque|Digital garden at yuque.com, write down some thoughts and conclusions.|[Yuque](https://www.yuque.com/chiyu-heb0t)|
 |Twitter|Acquire fragmented knowledge.|[Twitter](https://twitter.com/qddegtya)|
+|Zhihu|Knowledge is power.|[Zhihu](https://www.zhihu.com/people/archer_xiaoa)|
 
 <br>
 <br>
