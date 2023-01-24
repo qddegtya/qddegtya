@@ -10,9 +10,45 @@
   <br>
 </h1>
 
-> 🚀 coding -> writing -> playing
+<br>
+<br>
+<p align="center">
+<em>Tell me and I forget; Show me and I remember. Involve me and I understand.</em>
+<br>
+<br>
+<em>不闻不若闻之，闻之不若见之；见之不若知之，知之不若行之；学至于行而止矣。</em>
+<br>
+<br>
+<br>
+</p>
 
-👉 Follow me [ [WEBSITE](https://xiaoa.name) | [YUQUE](https://www.yuque.com/chiyu-heb0t) | [TWITTER](https://twitter.com/qddegtya) ]
+<br>
+<br>
+<h1>
+	👉 Follow me
+	<br>
+	<br>
+</h1>
+<br>
+
+|Name|Description|Follow|
+|:--:|:--:|:--:|
+|Website|Adhere to the original, persevere.|[Corlorful](https://xiaoa.name)|
+|Yuque|Digital garden in yuque, write down some thoughts and conclusions.|[Yuque](https://www.yuque.com/chiyu-heb0t)|
+|Twitter|Acquire fragmented knowledge.|[Twitter](https://twitter.com/qddegtya)|
+
+<br>
+<br>
+<h1>
+	🐝 Bees for My Github
+	<br>
+	<br>
+</h1>
+<br>
+
+|Name|Description|Detail|
+|:--:|:--:|:--:|
+|Reader-Bee|📕 Reading is the ladder of human progress.|[![r.xiaoa.name](https://xiaoa.name/assets/images/show/a-bee-for-fav-fans.png)](https://r.xiaoa.name/)|
 
 <br>
 <br>
