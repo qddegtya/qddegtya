@@ -53,6 +53,7 @@
 |Name|Description|Detail|
 |:--:|:--:|:--:|
 |Reader-Bee|📕 Reading is the ladder of human progress.|[![r.xiaoa.name](https://xiaoa.name/assets/images/show/a-bee-for-fav-fans.png)](https://r.xiaoa.name/)|
+|daily.dev|⛰️ A professional network for developers to learn, collaborate, and grow together.|<a href="https://app.daily.dev/archer"><img src="https://api.daily.dev/devcards/bf874fe00ea74f2588799507ca385430.png?r=9lh" width="320" alt="Archer's Dev Card"/></a>|
 
 <br>
 <br>
