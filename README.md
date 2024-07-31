@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bento.me/archer"><img src="./archer.svg" alt="Archer" /></a>
+  <a href="https://bento.me/archer"><img src="./archer-github-profile.svg" alt="Archer" /></a>
 </p>
 <br />
 <p align="center">
