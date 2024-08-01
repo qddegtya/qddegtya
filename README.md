@@ -23,7 +23,7 @@
   <br />
   <br />
   <samp>
-    - Tell me and I forget; Show me and I remember. Involve me and I understand. -
+    - Tell me and I forget; Show me and I remember; Involve me and I understand. -
   </samp>
 </p>
 
