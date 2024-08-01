@@ -1,10 +1,13 @@
 <p align="center">
-  <a href="https://bento.me/archer"><img src="./archer-github-profile.svg" alt="Archer" /></a>
+  <kbd>
+    <a href="https://bento.me/archer"><img src="./archer-github-profile.svg" alt="Archer" /></a>
+  </kbd>
+  <br>
   <br>
   Hi 👋，I am Archer.
 </p>
 
-***
+---
 
 <p align="center">
   <samp>
