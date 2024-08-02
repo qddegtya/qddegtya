@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-    <a href="https://bento.me/archer"><img src="./archer-github-profile.svg" alt="Archer" /></a>
+    <a href="https://bento.me/archer"><img src="https://xiaoa.name/assets/images/archer-github-profile.svg" alt="Archer" /></a>
   </kbd>
   <br />
   <br />
