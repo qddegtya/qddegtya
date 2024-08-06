@@ -1,4 +1,6 @@
 <p align="center">
+  <br />
+  <br />
   <samp>
     👨 Father / 💻 Indie Hacker / 🪄 Creator
   </samp>
@@ -15,11 +17,9 @@
 ---
 
 <p align="center">
-  <br />
   <samp>
     - Tell me and I forget; Show me and I remember; Involve me and I understand. -
   </samp>
-  <br />
   <br />
   <br />
 </p>
