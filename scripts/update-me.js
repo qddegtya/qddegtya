@@ -42,5 +42,5 @@ const UPDATED_README_CONTENT = fs.readFileSync(
   path.join(cwd, "./.portrayal/.twoColRecentPostsForGithubProfile.markdown")
 );
 
-fs.unlinkSync(README_PATH);
+fs.existsSync(README_PATH) && fs.unlinkSync(README_PATH);
 fs.writeFileSync(README_PATH, getNewReadmeContent(UPDATED_README_CONTENT));
