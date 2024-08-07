@@ -1,0 +1,22 @@
+portrayal:
+  units:
+    "@atools/portrayal-units-recent-posts":
+      yuque:
+        includeRepos:
+          - "ct"
+          - "chatgpt"
+          - "qifu"
+          - "code-and-art"
+          - "chatgpt"
+      blog:
+        atomOrFeedsUrl: "https://xiaoa.name/feed.xml"
+
+  cards:
+    "@atools/portrayal-cards-recent-posts":
+      two-column-github-profile:
+        left:
+          title: "Yuque Recent Posts"
+          link: "https://www.yuque.com/chiyu-heb0t"
+        right:
+          title: "Blog Recent Posts"
+          link: "https://xiaoa.name"
