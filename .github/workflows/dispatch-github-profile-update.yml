@@ -29,7 +29,20 @@ jobs:
     # Runs a single command using the runners shell
     - name: Check out repo
       uses: actions/checkout@v2
-    - name: npm install
+    - name: Npm install
       run: npm install -g @atools/portrayal@beta
-    - name: generate
+    - name: Generate
       run: YUQUE_TOKEN="${{ inputs.yuque_token }}" pt ge
+    - name: Update readme
+      run: |-
+        node ./scripts/update-me.js
+        cat README.md
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "qddegtya@gmail.com"
+        git config --global user.name "qddegtya-bot"
+        git pull
+        git add -A
+        git commit -m "Updated content" || exit 0
+        git push
