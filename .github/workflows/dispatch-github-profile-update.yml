@@ -29,5 +29,7 @@ jobs:
     # Runs a single command using the runners shell
     - name: npm install
       run: npm install -g @atools/portrayal@beta
+    - name: cwd
+      run: cd ${{ GITHUB_WORKSPACE }}
     - name: generate
       run: YUQUE_TOKEN="${{ inputs.yuque_token }}" pt ge
