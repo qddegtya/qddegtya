@@ -32,7 +32,7 @@ jobs:
     - name: Npm install
       run: npm install -g @atools/portrayal@beta
     - name: Generate
-      run: YUQUE_TOKEN="${{ inputs.yuque_token }}" pt ge
+      run: rm -rf ./.portrayal && YUQUE_TOKEN="${{ inputs.yuque_token }}" pt ge
     - name: Update readme
       run: |-
         node ./scripts/update-me.js
