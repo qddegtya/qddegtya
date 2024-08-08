@@ -4,6 +4,7 @@ const path = require("node:path");
 const cwd = process.cwd();
 
 const README_PATH = path.join(cwd, "README.md");
+const DATE = (new Date)
 
 const getNewReadmeContent = (content) => `
 <p align="center">
@@ -25,6 +26,8 @@ const getNewReadmeContent = (content) => `
 ---
 
 ${content}
+
+Updated: ${DATE.getFullYear()}-${DATE.getMonth() + 1}-${DATE.getDay()}
 
 ---
 
