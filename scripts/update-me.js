@@ -25,6 +25,8 @@ const getNewReadmeContent = (content) => `
 
 ---
 
+[![Dispatch Github Profile Update](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml/badge.svg?branch=main)](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml)
+
 ${content}
 
 🤖️ Auto-Updated: ${dayjs().format("YYYY-MM-DD HH:MM:ss")}
