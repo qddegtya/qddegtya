@@ -15,8 +15,10 @@ portrayal:
     "@atools/portrayal-cards-recent-posts":
       two-column-github-profile:
         left:
-          title: "Yuque Recent Posts"
+          emoji: 🧪
+          title: "Digital Garden"
           link: "https://www.yuque.com/chiyu-heb0t"
         right:
-          title: "Blog Recent Posts"
-          link: "https://xiaoa.name"
+          emoji: 🌈
+          title: "Blog"
+          link: "https://xiaoa.name/blog"
