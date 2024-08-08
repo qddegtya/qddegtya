@@ -1,10 +1,10 @@
 #!/usr/bin/node
 const fs = require("node:fs");
 const path = require("node:path");
-const cwd = process.cwd();
+const dayjs = require("dayjs");
 
+const cwd = process.cwd();
 const README_PATH = path.join(cwd, "README.md");
-const DATE = (new Date)
 
 const getNewReadmeContent = (content) => `
 <p align="center">
@@ -27,7 +27,7 @@ const getNewReadmeContent = (content) => `
 
 ${content}
 
-🤖️ Auto-Updated: ${DATE.getFullYear()}-${DATE.getMonth() + 1}-${DATE.getDay()} ${DATE.getHours()}H:${DATE.getMinutes()}M
+🤖️ Auto-Updated: ${dayjs().format("YYYY-MM-DD HH:MM:ss")}
 
 ---
 

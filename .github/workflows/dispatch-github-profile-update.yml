@@ -35,6 +35,7 @@ jobs:
       run: rm -rf ./.portrayal && YUQUE_TOKEN="${{ inputs.yuque_token }}" pt ge
     - name: Update readme
       run: |-
+        npm install
         node ./scripts/update-me.js
         cat README.md
     - name: Commit and push if changed

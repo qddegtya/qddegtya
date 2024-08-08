@@ -1,0 +1,22 @@
+{
+  "name": "qddegtya",
+  "version": "1.0.0",
+  "description": "qddegtya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qddegtya/qddegtya.git"
+  },
+  "author": "xiaoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qddegtya/qddegtya/issues"
+  },
+  "homepage": "https://github.com/qddegtya/qddegtya#readme",
+  "devDependencies": {
+    "dayjs": "^1.11.12"
+  }
+}
