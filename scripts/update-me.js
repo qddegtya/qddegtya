@@ -27,7 +27,7 @@ const getNewReadmeContent = (content) => `
 
 ${content}
 
-Updated: ${DATE.getFullYear()}-${DATE.getMonth() + 1}-${DATE.getDay()}
+🤖️ Auto-Updated: ${DATE.getFullYear()}-${DATE.getMonth() + 1}-${DATE.getDay()} ${DATE.getHours()}H:${DATE.getMinutes()}M
 
 ---
 

@@ -21,7 +21,7 @@
   <tr>
   <td valign="top" width="50%">
 
-  #### 🍩 <a href="https://www.yuque.com/chiyu-heb0t" target="_blank">Yuque Recent Posts</a>
+  #### 🧪 <a href="https://www.yuque.com/chiyu-heb0t" target="_blank">Digital Garden</a>
 
   ---
 
@@ -41,7 +41,7 @@
   </td>
   <td valign="top" width="50%">
 
-  #### 🍰 <a href="https://xiaoa.name" target="_blank">Blog Recent Posts</a>
+  #### 🌈 <a href="https://xiaoa.name/blog" target="_blank">Blog</a>
 
   ---
 
@@ -60,6 +60,8 @@
   </td>
   </tr>
 </table>
+
+🤖️ Auto-Updated: 2024-8-4 10H:11M
 
 ---
 
