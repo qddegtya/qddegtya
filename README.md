@@ -47,6 +47,7 @@
 
   ---
 
+  * <a href='https://xiaoa.name/llm%20got/os-got/' target='_blank'>《精读源码》- GoT</a> - 2024-08-07
   * <a href='https://xiaoa.name/javascript/javascript-sandbox/' target='_blank'>Javascript Sandbox</a> - 2024-08-04
   * <a href='https://xiaoa.name/video/n8n-video/' target='_blank'>「Code & Art」什么是超自动化？</a> - 2024-08-01
   * <a href='https://xiaoa.name/programming/chatgpt-01/' target='_blank'>从编程范式及实时 Web 应用的另类角度看向 ChatGPT 的 AI 大脑</a> - 2023-03-11
@@ -56,14 +57,15 @@
   * <a href='https://xiaoa.name/life/beijing/' target='_blank'>2022 in 北京</a> - 2022-01-20
   * <a href='https://xiaoa.name/work/v-circle/' target='_blank'>v-circle - 漂亮的 Vue.js 圆形进度组件集合</a> - 2016-04-28
   * <a href='https://xiaoa.name/work/koa/' target='_blank'>KOA 源码阅读系列（一） - 理解 KOA 中间件的执行</a> - 2016-04-10
-  * <a href='https://xiaoa.name/life/feday-2016/' target='_blank'>FEDAY 2016 之旅</a> - 2016-03-22
   <br />
   
   </td>
   </tr>
 </table>
 
-🤖️ Auto-Updated: 2024-08-08 21:08:43
+🤖️ Auto-Updated: 2024-08-10 14:08:14
+
+Powered by [@atools/portrayal](https://github.com/qddegtya/portrayal)
 
 ---
 

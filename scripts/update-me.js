@@ -31,6 +31,8 @@ ${content}
 
 🤖️ Auto-Updated: ${dayjs().format("YYYY-MM-DD HH:MM:ss")}
 
+Powered by [@atools/portrayal](https://github.com/qddegtya/portrayal)
+
 ---
 
 <p align="center">
