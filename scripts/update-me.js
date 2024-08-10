@@ -17,10 +17,9 @@ const getNewReadmeContent = (content) => `
 
 <p align="center">
   <samp>
+    <a href="https://github.com/qddegtya">github</a> .
     <a href="https://xiaoa.name">blog</a> .
-    <a href="https://www.yuque.com/chiyu-heb0t">digital garden</a> .
-    <a href="https://web.okjike.com/u/611375a1-39bd-43ae-b042-92556a41a85e">sparks</a> .
-    <a href="https://twitter.com/qddegtya">tweets</a>
+    <a href="https://www.yuque.com/chiyu-heb0t">digital garden</a>
   </samp>
 </p>
 
