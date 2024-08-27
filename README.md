@@ -34,8 +34,8 @@
   * <a href='https://www.yuque.com/chiyu-heb0t/code-and-art/lblurkhp2mo129e3' target='_blank'>2023 年终总结 - 一切都还来得及</a> - 2024-01-03
   * <a href='https://www.yuque.com/chiyu-heb0t/code-and-art/bodac75bwdkspu2d' target='_blank'>构建你的第二大脑</a> - 2023-07-09
   * <a href='https://www.yuque.com/chiyu-heb0t/code-and-art/yumbqn9gpegoyo32' target='_blank'>从编程范式及实时 Web 应用的另类角度看向 ChatGPT 的 AI 大脑</a> - 2023-10-17
-  * <a href='https://www.yuque.com/chiyu-heb0t/code-and-art/giuwyb' target='_blank'>大白话响应式编程</a> - 2023-02-15
-  * <a href='https://www.yuque.com/chiyu-heb0t/code-and-art/mrhdse' target='_blank'>FBP and Build a FBP-Inspired System</a> - 2023-03-10
+  * <a href='https://www.yuque.com/chiyu-heb0t/code-and-art/giuwyb' target='_blank'>大白话响应式编程</a> - 2024-08-26
+  * <a href='https://www.yuque.com/chiyu-heb0t/code-and-art/mrhdse' target='_blank'>FBP and Build a FBP-Inspired System</a> - 2024-08-26
   * <a href='https://www.yuque.com/chiyu-heb0t/ct/zs7sz8840hegspem' target='_blank'>Creator Telescope - Vol.02</a> - 2023-05-11
   * <a href='https://www.yuque.com/chiyu-heb0t/ct/kwx7f3za30yudvgx' target='_blank'>Creator Telescope - Vol.01</a> - 2023-04-21
   <br />
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-🤖️ Auto-Updated: 2024-08-25 13:08:42
+🤖️ Auto-Updated: 2024-08-27 05:08:24
 
 Powered by [@atools/portrayal](https://github.com/qddegtya/portrayal)
 
