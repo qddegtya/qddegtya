@@ -47,7 +47,7 @@
 
   ---
 
-  * <a href='https://xiaoa.name/llm/do-not-build-ai-products-the-way-everyone-else-is-doing-it/' target='_blank'>Don’t Build AI Products The Way Everyone Else Is Doing It - 【译】</a> - 2024-08-29
+  * <a href='https://xiaoa.name/llm/do-not-build-ai-products-the-way-everyone-else-is-doing-it/' target='_blank'>Don’t Build AI Products The Way Everyone Else Is Doing It（译）</a> - 2024-08-29
   * <a href='https://xiaoa.name/llm%20got/os-got/' target='_blank'>《精读源码》- GoT</a> - 2024-08-07
   * <a href='https://xiaoa.name/javascript/javascript-sandbox/' target='_blank'>Javascript Sandbox</a> - 2024-08-04
   * <a href='https://xiaoa.name/video/n8n-video/' target='_blank'>「Code & Art」什么是超自动化？</a> - 2024-08-01
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-🤖️ Auto-Updated: 2024-08-30 07:08:20
+🤖️ Auto-Updated: 2024-08-30 07:08:30
 
 Powered by [@atools/portrayal](https://github.com/qddegtya/portrayal)
 
