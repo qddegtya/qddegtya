@@ -47,6 +47,7 @@
 
   ---
 
+  * <a href='https://xiaoa.name/%E5%89%8D%E7%AB%AF/mf/' target='_blank'>微前端：一份指南（译）</a> - 2024-09-05
   * <a href='https://xiaoa.name/llm/mas-vs-sa/' target='_blank'>多代理系统和单一代理的对比（译）</a> - 2024-09-02
   * <a href='https://xiaoa.name/llm/do-not-build-ai-products-the-way-everyone-else-is-doing-it/' target='_blank'>你应该这样构建基于 AI 的产品（译）</a> - 2024-08-29
   * <a href='https://xiaoa.name/llm%20got/os-got/' target='_blank'>《精读源码》- GoT</a> - 2024-08-07
@@ -56,14 +57,13 @@
   * <a href='https://xiaoa.name/life/yuque-burst/' target='_blank'>面向未来的认知优化之《爆裂》启示录</a> - 2022-12-31
   * <a href='https://xiaoa.name/tool/clean-gmail-via-app-script/' target='_blank'>How to clean email for gmail via app script ?</a> - 2022-12-29
   * <a href='https://xiaoa.name/work/mbm/' target='_blank'>Make your own Dark Mode with mbm.js</a> - 2022-05-31
-  * <a href='https://xiaoa.name/life/beijing/' target='_blank'>2022 in 北京</a> - 2022-01-20
   <br />
   
   </td>
   </tr>
 </table>
 
-🤖️ Auto-Updated: 2024-09-03 12:09:12
+🤖️ Auto-Updated: 2024-09-06 07:09:10
 
 Powered by [@atools/portrayal](https://github.com/qddegtya/portrayal)
 
