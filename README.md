@@ -47,6 +47,7 @@
 
   ---
 
+  * <a href='https://xiaoa.name/llm/n8n-ai-flow/' target='_blank'>关于 AI 编排：好处、最佳实践、工具（译）</a> - 2024-09-10
   * <a href='https://xiaoa.name/llm%20cursor/cursor/' target='_blank'>为开发人员准备的 Cursor 终极介绍（译）</a> - 2024-09-08
   * <a href='https://xiaoa.name/%E5%89%8D%E7%AB%AF/mf/' target='_blank'>微前端：一份指南（译）</a> - 2024-09-05
   * <a href='https://xiaoa.name/llm/mas-vs-sa/' target='_blank'>多代理系统和单一代理的对比（译）</a> - 2024-09-02
@@ -56,14 +57,13 @@
   * <a href='https://xiaoa.name/video/n8n-video/' target='_blank'>「Code & Art」什么是超自动化？</a> - 2024-08-01
   * <a href='https://xiaoa.name/programming/chatgpt-01/' target='_blank'>从编程范式及实时 Web 应用的另类角度看向 ChatGPT 的 AI 大脑</a> - 2023-03-11
   * <a href='https://xiaoa.name/life/yuque-burst/' target='_blank'>面向未来的认知优化之《爆裂》启示录</a> - 2022-12-31
-  * <a href='https://xiaoa.name/tool/clean-gmail-via-app-script/' target='_blank'>How to clean email for gmail via app script ?</a> - 2022-12-29
   <br />
   
   </td>
   </tr>
 </table>
 
-🤖️ Auto-Updated: 2024-09-09 10:09:44
+🤖️ Auto-Updated: 2024-09-10 14:09:36
 
 Powered by [@atools/portrayal](https://github.com/qddegtya/portrayal)
 
