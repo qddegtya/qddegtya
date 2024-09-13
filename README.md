@@ -47,23 +47,23 @@
 
   ---
 
-  * <a href='https://xiaoa.name/llm/n8n-ai-flow/' target='_blank'>关于 AI 编排：好处、最佳实践、工具（译）</a> - 2024-09-10
-  * <a href='https://xiaoa.name/llm%20cursor/cursor/' target='_blank'>为开发人员准备的 Cursor 终极介绍（译）</a> - 2024-09-08
-  * <a href='https://xiaoa.name/%E5%89%8D%E7%AB%AF/mf/' target='_blank'>微前端：一份指南（译）</a> - 2024-09-05
-  * <a href='https://xiaoa.name/llm/mas-vs-sa/' target='_blank'>多代理系统和单一代理的对比（译）</a> - 2024-09-02
-  * <a href='https://xiaoa.name/llm/do-not-build-ai-products-the-way-everyone-else-is-doing-it/' target='_blank'>你应该这样构建基于 AI 的产品（译）</a> - 2024-08-29
   * <a href='https://xiaoa.name/llm%20got/os-got/' target='_blank'>《精读源码》- GoT</a> - 2024-08-07
   * <a href='https://xiaoa.name/javascript/javascript-sandbox/' target='_blank'>Javascript Sandbox</a> - 2024-08-04
   * <a href='https://xiaoa.name/video/n8n-video/' target='_blank'>「Code & Art」什么是超自动化？</a> - 2024-08-01
   * <a href='https://xiaoa.name/programming/chatgpt-01/' target='_blank'>从编程范式及实时 Web 应用的另类角度看向 ChatGPT 的 AI 大脑</a> - 2023-03-11
   * <a href='https://xiaoa.name/life/yuque-burst/' target='_blank'>面向未来的认知优化之《爆裂》启示录</a> - 2022-12-31
+  * <a href='https://xiaoa.name/tool/clean-gmail-via-app-script/' target='_blank'>How to clean email for gmail via app script ?</a> - 2022-12-29
+  * <a href='https://xiaoa.name/work/mbm/' target='_blank'>Make your own Dark Mode with mbm.js</a> - 2022-05-31
+  * <a href='https://xiaoa.name/life/beijing/' target='_blank'>2022 in 北京</a> - 2022-01-20
+  * <a href='https://xiaoa.name/work/v-circle/' target='_blank'>v-circle - 漂亮的 Vue.js 圆形进度组件集合</a> - 2016-04-28
+  * <a href='https://xiaoa.name/work/koa/' target='_blank'>KOA 源码阅读系列（一） - 理解 KOA 中间件的执行</a> - 2016-04-10
   <br />
   
   </td>
   </tr>
 </table>
 
-🤖️ Auto-Updated: 2024-09-10 14:09:36
+🤖️ Auto-Updated: 2024-09-13 11:09:37
 
 Powered by [@atools/portrayal](https://github.com/qddegtya/portrayal)
 
