@@ -3,11 +3,10 @@ portrayal:
     "@atools/portrayal-units-recent-posts":
       yuque:
         includeRepos:
-          - "ct"
-          - "chatgpt"
-          - "qifu"
-          - "code-and-art"
-          - "chatgpt"
+          - "thinking"
+          - "fe"
+          - "ai"
+          - "es"
       blog:
         atomOrFeedsUrl: "https://xiaoa.name/feed.xml"
 
