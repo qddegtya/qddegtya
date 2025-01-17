@@ -17,7 +17,7 @@
 
 ---
 
-[![Dispatch Github Profile Update](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml/badge.svg?branch=main)](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml)
+[![Auto-Update Task Status](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml/badge.svg?branch=main)](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml)
 
 <table width="960px;">
   <tr>
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-🤖️ Auto-Updated: 2025-01-16 17:01:29
+🤖️ Auto-Updated: 2025-01-17 03:01:37
 
 Powered by [@atools/portrayal](https://github.com/qddegtya/portrayal)
 
