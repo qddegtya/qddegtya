@@ -26,7 +26,7 @@ const getNewReadmeContent = (content) => `
 
 ---
 
-[![Dispatch Github Profile Update](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml/badge.svg?branch=main)](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml)
+[![Auto-Update Task Status](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml/badge.svg?branch=main)](https://github.com/qddegtya/qddegtya/actions/workflows/dispatch-github-profile-update.yml)
 
 ${content}
 
