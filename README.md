@@ -27,12 +27,12 @@
 
   ---
 
-  * <a href='https://www.yuque.com/chiyu-heb0t/fe/uxvd56' target='_blank'>前端那些事儿 - GUI 开发的前世今身 [WIP]</a> - 2024-10-02
   * <a href='https://www.yuque.com/chiyu-heb0t/thinking/lblurkhp2mo129e3' target='_blank'>2024 年终总结 - 一切都还来得及 [WIP]</a> - 2024-10-02
   * <a href='https://www.yuque.com/chiyu-heb0t/thinking/bodac75bwdkspu2d' target='_blank'>构建你的第二大脑 [WIP]</a> - 2024-10-02
   * <a href='https://www.yuque.com/chiyu-heb0t/thinking/yumbqn9gpegoyo32' target='_blank'>从编程范式及实时 Web 应用的另类角度看向 ChatGPT 的 AI 大脑</a> - 2023-10-17
   * <a href='https://www.yuque.com/chiyu-heb0t/thinking/giuwyb' target='_blank'>大白话响应式编程</a> - 2024-08-26
   * <a href='https://www.yuque.com/chiyu-heb0t/thinking/mrhdse' target='_blank'>FBP and Build a FBP-Inspired System</a> - 2024-08-26
+  * <a href='https://www.yuque.com/chiyu-heb0t/fe/uxvd56' target='_blank'>前端那些事儿 - GUI 开发的前世今身 [WIP]</a> - 2024-10-02
   * <a href='https://www.yuque.com/chiyu-heb0t/ai/eu2yvzg7ng0tiw3y' target='_blank'>我和 AI 的交流 - 实现无 / 有栈协程</a> - 2024-12-23
   * <a href='https://www.yuque.com/chiyu-heb0t/ai/cf7f3lyg46t930gp' target='_blank'>我和 AI 的交流 - 《Make your own X - React》 [WIP]</a> - 2024-12-23
   * <a href='https://www.yuque.com/chiyu-heb0t/ai/oaux80u8n7l38ngu' target='_blank'>我和 AI 的交流 - 关于层次化索引和 Pivot Table 透视表</a> - 2024-12-23
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-🤖️ Auto-Updated: 2025-03-25 01:03:45
+🤖️ Auto-Updated: 2025-03-26 01:03:59
 
 Powered by [@atools/portrayal](https://github.com/qddegtya/portrayal)
 
