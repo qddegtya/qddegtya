@@ -9,8 +9,12 @@ const README_PATH = path.join(cwd, "README.md");
 
 const getNewReadmeContent = (content) => `
 <p align="center">
-  <br />
-  <br />
+  <img width="100%" alt="archer-github-banner" src="https://github.com/user-attachments/assets/eecef985-c4bd-4ebe-b9d0-f981054def81" />
+</p>
+
+---
+
+<p align="center">
   <samp>
     👨 Father / 💻 Indie Hacker / 🪄 Creator
   </samp>
