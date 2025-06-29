@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="928" alt="archer-github-banner" src="https://github.com/user-attachments/assets/eecef985-c4bd-4ebe-b9d0-f981054def81" />
+  <img width="100%" alt="archer-github-banner" src="https://github.com/user-attachments/assets/eecef985-c4bd-4ebe-b9d0-f981054def81" />
 </p>
 
 ---
