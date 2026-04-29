@@ -9,14 +9,18 @@ const README_PATH = path.join(cwd, "README.md");
 
 const getNewReadmeContent = (content) => `
 <p align="center">
-  <img width="100%" alt="github-banner" src="https://github.com/user-attachments/assets/6e62ba8b-4bf4-4cdb-bf14-066c6d1c524e" />
+  <!-- HUMAN -->
+  <!-- <img width="100%" alt="github-banner" src="https://github.com/user-attachments/assets/6e62ba8b-4bf4-4cdb-bf14-066c6d1c524e" /> -->
+
+  <!-- AI -->
+  <img width="100%" alt="github-banner" src="https://github.com/user-attachments/assets/7af24e12-110c-4b0a-833d-26522718cd70" />
 </p>
 
 ---
 
 <p align="center">
   <samp>
-    👨 Father / 💻 Indie Hacker / 🪄 Creator
+    👨 Father / 💻 Hacker / 🪄 Creator
   </samp>
 </p>
 
