@@ -12,7 +12,7 @@
 
 <p align="center">
   <samp>
-    👨 Father / 💻 Indie Hacker / 🪄 Creator
+    👨 Father / 💻 Hacker / 🪄 Creator
   </samp>
 </p>
 
